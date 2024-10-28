@@ -10,7 +10,7 @@ int main()
 	string line;
 	getline(cin, line);
 
-	stack<int> openingIdx;
+	stack<size_t> openingIdx;
 
 	for (size_t i = 0; i < line.size(); ++i)
 	{
