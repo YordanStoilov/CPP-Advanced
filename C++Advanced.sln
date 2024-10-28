@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Vectors", "Vectors", "{8C0D
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VectorProperties", "Vectors\VectorProperties\VectorProperties.vcxproj", "{EF892393-5C89-4B0F-9812-4B8889A90606}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.StacksAndQueues", "01.StacksAndQueues", "{78428554-271D-4FFD-BAE9-9DFC0D2A1F24}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ReverseString", "01.StacksAndQueues\ReverseString\ReverseString.vcxproj", "{33AC49FB-4440-41C2-BA43-F04DEF82C30C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM64 = Debug|ARM64
@@ -29,12 +33,25 @@ Global
 		{EF892393-5C89-4B0F-9812-4B8889A90606}.Release|x64.Build.0 = Release|x64
 		{EF892393-5C89-4B0F-9812-4B8889A90606}.Release|x86.ActiveCfg = Release|Win32
 		{EF892393-5C89-4B0F-9812-4B8889A90606}.Release|x86.Build.0 = Release|Win32
+		{33AC49FB-4440-41C2-BA43-F04DEF82C30C}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{33AC49FB-4440-41C2-BA43-F04DEF82C30C}.Debug|ARM64.Build.0 = Debug|ARM64
+		{33AC49FB-4440-41C2-BA43-F04DEF82C30C}.Debug|x64.ActiveCfg = Debug|x64
+		{33AC49FB-4440-41C2-BA43-F04DEF82C30C}.Debug|x64.Build.0 = Debug|x64
+		{33AC49FB-4440-41C2-BA43-F04DEF82C30C}.Debug|x86.ActiveCfg = Debug|Win32
+		{33AC49FB-4440-41C2-BA43-F04DEF82C30C}.Debug|x86.Build.0 = Debug|Win32
+		{33AC49FB-4440-41C2-BA43-F04DEF82C30C}.Release|ARM64.ActiveCfg = Release|ARM64
+		{33AC49FB-4440-41C2-BA43-F04DEF82C30C}.Release|ARM64.Build.0 = Release|ARM64
+		{33AC49FB-4440-41C2-BA43-F04DEF82C30C}.Release|x64.ActiveCfg = Release|x64
+		{33AC49FB-4440-41C2-BA43-F04DEF82C30C}.Release|x64.Build.0 = Release|x64
+		{33AC49FB-4440-41C2-BA43-F04DEF82C30C}.Release|x86.ActiveCfg = Release|Win32
+		{33AC49FB-4440-41C2-BA43-F04DEF82C30C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{EF892393-5C89-4B0F-9812-4B8889A90606} = {8C0D5509-6C9C-40E4-894A-0CCEA36FCF91}
+		{33AC49FB-4440-41C2-BA43-F04DEF82C30C} = {78428554-271D-4FFD-BAE9-9DFC0D2A1F24}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {845C203C-CA67-46B6-9F90-952469F72177}
