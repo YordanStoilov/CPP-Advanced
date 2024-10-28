@@ -29,8 +29,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{2e4e43ff-d399-4bc5-b9c7-da708262b9c2}</ProjectGuid>
-    <RootNamespace>CAdvanced</RootNamespace>
+    <ProjectGuid>{40460998-e5d4-4eb0-a43c-f32d71a3dd7f}</ProjectGuid>
+    <RootNamespace>StackSum</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -182,7 +182,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Vectors.cpp" />
+    <ClCompile Include="StackSum.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
