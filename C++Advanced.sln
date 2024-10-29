@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HotPotato", "01.StacksAndQu
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BasicStackOperations", "01.StacksAndQueues\BasicStackOperations\BasicStackOperations.vcxproj", "{80E0E8B8-9BAD-446F-A1ED-28D8661A1E9B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BasicQueueOperations", "01.StacksAndQueues\BasicQueueOperations\BasicQueueOperations.vcxproj", "{CEFD64F6-60EF-4D83-8863-CC122F612B43}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM64 = Debug|ARM64
@@ -127,6 +129,18 @@ Global
 		{80E0E8B8-9BAD-446F-A1ED-28D8661A1E9B}.Release|x64.Build.0 = Release|x64
 		{80E0E8B8-9BAD-446F-A1ED-28D8661A1E9B}.Release|x86.ActiveCfg = Release|Win32
 		{80E0E8B8-9BAD-446F-A1ED-28D8661A1E9B}.Release|x86.Build.0 = Release|Win32
+		{CEFD64F6-60EF-4D83-8863-CC122F612B43}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{CEFD64F6-60EF-4D83-8863-CC122F612B43}.Debug|ARM64.Build.0 = Debug|ARM64
+		{CEFD64F6-60EF-4D83-8863-CC122F612B43}.Debug|x64.ActiveCfg = Debug|x64
+		{CEFD64F6-60EF-4D83-8863-CC122F612B43}.Debug|x64.Build.0 = Debug|x64
+		{CEFD64F6-60EF-4D83-8863-CC122F612B43}.Debug|x86.ActiveCfg = Debug|Win32
+		{CEFD64F6-60EF-4D83-8863-CC122F612B43}.Debug|x86.Build.0 = Debug|Win32
+		{CEFD64F6-60EF-4D83-8863-CC122F612B43}.Release|ARM64.ActiveCfg = Release|ARM64
+		{CEFD64F6-60EF-4D83-8863-CC122F612B43}.Release|ARM64.Build.0 = Release|ARM64
+		{CEFD64F6-60EF-4D83-8863-CC122F612B43}.Release|x64.ActiveCfg = Release|x64
+		{CEFD64F6-60EF-4D83-8863-CC122F612B43}.Release|x64.Build.0 = Release|x64
+		{CEFD64F6-60EF-4D83-8863-CC122F612B43}.Release|x86.ActiveCfg = Release|Win32
+		{CEFD64F6-60EF-4D83-8863-CC122F612B43}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -140,6 +154,7 @@ Global
 		{826B8A3B-F0A0-46D3-8D2C-A421A7AC9D0A} = {78428554-271D-4FFD-BAE9-9DFC0D2A1F24}
 		{19E65E7E-00A1-4771-AE5E-38B1DF95D599} = {78428554-271D-4FFD-BAE9-9DFC0D2A1F24}
 		{80E0E8B8-9BAD-446F-A1ED-28D8661A1E9B} = {78428554-271D-4FFD-BAE9-9DFC0D2A1F24}
+		{CEFD64F6-60EF-4D83-8863-CC122F612B43} = {78428554-271D-4FFD-BAE9-9DFC0D2A1F24}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {845C203C-CA67-46B6-9F90-952469F72177}
